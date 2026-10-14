@@ -1,0 +1,8 @@
+{
+  "name": "SIM-SESI: Sistem Monitoring & Pengecekan Sesi Mengajar",
+  "description": "Aplikasi verifikasi dan monitoring sesi mengajar bertingkat untuk Admin Wilayah, Lokasi Belajar, dan Pengajar dengan integrasi Google Sheets & Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
